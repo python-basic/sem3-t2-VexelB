@@ -1,5 +1,7 @@
 # sem3-t2
  Высылаю все свои ср:
+ 
+ <a href="https://github.com/VexelB/porfol">Портфолио с помощью Markdown</a>
 
  <a href="https://repl.it/@VexelB/ProgFLab">Первая лабораторная</a>
 
@@ -12,6 +14,8 @@
 <a href="https://repl.it/@VexelB/ProgTLab">Третья лабораторная</a>
 
 <a href="https://repl.it/@VexelB/Prog1310">СР 13.10</a>
+
+<a href="https://github.com/VexelB/prog1810/blob/master/main.py">Лабораторная работа 18.10</a>
 
 <a href="https://repl.it/@VexelB/Prog111">СР 1.11</a>
 
